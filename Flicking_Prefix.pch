@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'Flicking' target in the 'Flicking' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif

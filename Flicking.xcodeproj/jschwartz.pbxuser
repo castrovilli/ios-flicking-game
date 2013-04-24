@@ -1,0 +1,288 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* FlickingAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {909, 468}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 655}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Flicking */ = {
+		activeExec = 0;
+		executables = (
+			643183CA1190AD82003CEF3A /* Flicking */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* FlickingViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1070, 553}}";
+			sepNavSelRange = "{371, 0}";
+			sepNavVisRange = "{0, 379}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* FlickingViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1070, 1885}}";
+			sepNavSelRange = "{2402, 551}";
+			sepNavVisRange = "{2147, 1186}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 643183CA1190AD82003CEF3A /* Flicking */;
+		activeSDKPreference = iphoneos3.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Flicking */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Flicking */,
+		);
+		codeSenseManager = 643183E21190AD86003CEF3A /* Code sense */;
+		executables = (
+			643183CA1190AD82003CEF3A /* Flicking */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					892,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 294701038;
+			PBXWorkspaceStateSaveDate = 294701038;
+		};
+		perUserProjectItems = {
+			643184401190BC90003CEF3A /* PBXTextBookmark */ = 643184401190BC90003CEF3A /* PBXTextBookmark */;
+			6470D0161191D7BE00E865FB /* PlistBookmark */ = 6470D0161191D7BE00E865FB /* PlistBookmark */;
+			6470D0171191D7BE00E865FB /* PBXTextBookmark */ = 6470D0171191D7BE00E865FB /* PBXTextBookmark */;
+			6470D0181191D7BE00E865FB /* PBXBookmark */ = 6470D0181191D7BE00E865FB /* PBXBookmark */;
+			6470D0191191D7BE00E865FB /* PBXTextBookmark */ = 6470D0191191D7BE00E865FB /* PBXTextBookmark */;
+			6470D01A1191D7BE00E865FB /* PBXTextBookmark */ = 6470D01A1191D7BE00E865FB /* PBXTextBookmark */;
+			6470D01C1191D7BE00E865FB /* PBXTextBookmark */ = 6470D01C1191D7BE00E865FB /* PBXTextBookmark */;
+			6470D01D1191D7BE00E865FB /* PBXTextBookmark */ = 6470D01D1191D7BE00E865FB /* PBXTextBookmark */;
+			6470D01E1191D7BE00E865FB /* PBXTextBookmark */ = 6470D01E1191D7BE00E865FB /* PBXTextBookmark */;
+			6470D01F1191D7BE00E865FB /* PBXTextBookmark */ = 6470D01F1191D7BE00E865FB /* PBXTextBookmark */;
+			6470D0201191D7BE00E865FB /* PBXTextBookmark */ = 6470D0201191D7BE00E865FB /* PBXTextBookmark */;
+			6470D0211191D7BE00E865FB /* PBXTextBookmark */ = 6470D0211191D7BE00E865FB /* PBXTextBookmark */;
+		};
+		sourceControlManager = 643183E11190AD86003CEF3A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {909, 401}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 345}";
+		};
+	};
+	643183CA1190AD82003CEF3A /* Flicking */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Flicking;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	643183E11190AD86003CEF3A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	643183E21190AD86003CEF3A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	643183E91190ADE3003CEF3A /* Projectile.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1070, 949}}";
+			sepNavSelRange = "{657, 47}";
+			sepNavVisRange = "{360, 741}";
+			sepNavWindowFrame = "{{15, 327}, {1573, 846}}";
+		};
+	};
+	643183EA1190ADE3003CEF3A /* Projectile.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1070, 2535}}";
+			sepNavSelRange = "{1455, 0}";
+			sepNavVisRange = "{1003, 1168}";
+			sepNavWindowFrame = "{{259, 258}, {1573, 846}}";
+		};
+	};
+	643184401190BC90003CEF3A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* FlickingAppDelegate.m */;
+		name = "FlickingAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 655;
+		vrLoc = 0;
+	};
+	6470CFD61190D8FD00E865FB /* FlickArea.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1070, 530}}";
+			sepNavSelRange = "{178, 0}";
+			sepNavVisRange = "{0, 189}";
+		};
+	};
+	6470CFD71190D8FD00E865FB /* FlickArea.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1070, 533}}";
+			sepNavSelRange = "{446, 0}";
+			sepNavVisRange = "{0, 715}";
+		};
+	};
+	6470D0161191D7BE00E865FB /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Flicking-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/jschwartz/Documents/Projects/iPhone/Tests/Flicking/Flicking/Flicking-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	6470D0171191D7BE00E865FB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 345;
+		vrLoc = 0;
+	};
+	6470D0181191D7BE00E865FB /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 6431840C1190AFAD003CEF3A /* ball.png */;
+	};
+	6470D0191191D7BE00E865FB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6470CFD61190D8FD00E865FB /* FlickArea.h */;
+		name = "FlickArea.h: 13";
+		rLen = 0;
+		rLoc = 178;
+		rType = 0;
+		vrLen = 189;
+		vrLoc = 0;
+	};
+	6470D01A1191D7BE00E865FB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6470D01B1191D7BE00E865FB /* GameControl.m */;
+		name = "GameControl.m: 77";
+		rLen = 324;
+		rLoc = 1301;
+		rType = 0;
+		vrLen = 770;
+		vrLoc = 1104;
+	};
+	6470D01B1191D7BE00E865FB /* GameControl.m */ = {
+		isa = PBXFileReference;
+		name = GameControl.m;
+		path = /Users/jschwartz/Documents/Projects/iPhone/SpaceFighter/SpaceFighter/Classes/GameControl.m;
+		sourceTree = "<absolute>";
+	};
+	6470D01C1191D7BE00E865FB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 643183E91190ADE3003CEF3A /* Projectile.h */;
+		name = "Projectile.h: 46";
+		rLen = 47;
+		rLoc = 657;
+		rType = 0;
+		vrLen = 741;
+		vrLoc = 360;
+	};
+	6470D01D1191D7BE00E865FB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6470CFD71190D8FD00E865FB /* FlickArea.m */;
+		name = "FlickArea.m: 22";
+		rLen = 0;
+		rLoc = 446;
+		rType = 0;
+		vrLen = 715;
+		vrLoc = 0;
+	};
+	6470D01E1191D7BE00E865FB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 643183EA1190ADE3003CEF3A /* Projectile.m */;
+		name = "Projectile.m: 65";
+		rLen = 0;
+		rLoc = 1455;
+		rType = 0;
+		vrLen = 1168;
+		vrLoc = 1003;
+	};
+	6470D01F1191D7BE00E865FB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* FlickingViewController.m */;
+		name = "FlickingViewController.m: 104";
+		rLen = 551;
+		rLoc = 2402;
+		rType = 0;
+		vrLen = 1186;
+		vrLoc = 2147;
+	};
+	6470D0201191D7BE00E865FB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* FlickingViewController.h */;
+		name = "FlickingViewController.h: 19";
+		rLen = 0;
+		rLoc = 348;
+		rType = 0;
+		vrLen = 379;
+		vrLoc = 0;
+	};
+	6470D0211191D7BE00E865FB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* FlickingViewController.h */;
+		name = "FlickingViewController.h: 23";
+		rLen = 0;
+		rLoc = 371;
+		rType = 0;
+		vrLen = 379;
+		vrLoc = 0;
+	};
+}
